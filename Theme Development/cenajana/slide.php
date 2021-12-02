@@ -1,0 +1,1 @@
+<img class="slide" src="<?php echo get_template_directory_uri(); ?>/images/slide.png" width="100%">
